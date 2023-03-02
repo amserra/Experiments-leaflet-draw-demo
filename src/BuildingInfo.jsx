@@ -15,6 +15,13 @@ export default function BuildingInfo() {
             <h1>Building 1</h1>
             <h2>Source: KiploCapture</h2>
             <h3>This building does not belong to a community</h3>
+            <h4>Building info:</h4>
+            <ul>
+                <li>Area: ...</li>
+                <li>District: ...</li>
+                <li>Municipality: ...</li>
+                <li>...</li>
+            </ul>
             <h4>Members:</h4>
             <ul
                 style={{ color: "blue", cursor: "pointer" }}
